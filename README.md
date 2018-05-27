@@ -4,9 +4,6 @@
  - [Big Data](#big-data)
  - [Python](#python)
  - [Andriod](#android)
- - [IOS](#ios)
- - [Kotlin](#kotlin)
- - [Golang](#golang)
  - [Rust](#Rustlang)
  - [IOT](#internet-of-things)
  - [Database](#database)
@@ -35,7 +32,6 @@
  - [IrPython](https://telegram.me/joinchat/BFAsrj2D5okEHzEZfhuTpw) - Iranian Python Users Group
  - [Python](https://telegram.me/joinchat/BR1mSTwSfWdmkxmyF4Gpig) - Group interested in Python
  - [Python Challenge](https://telegram.me/pythonchallenge) - Group for Advanced Learning Python
- - [Python](https://t.me/joinchat/D1ZmYU5n_GYLkGBr_VUi5g) - Group for Python & Rassp
  - [Python](https://t.me/joinchat/HHAUWk16aSvttxZ_su11mg) - Python Discussion
  - [Python + Linux](https://t.me/joinchat/ClyM2j9QzOiYfJkHkgrMxQ) - Group for Python + Linux Experts
  
