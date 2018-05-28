@@ -2,13 +2,13 @@
 ## Contents
  - [Machine Learning](#machine-learning)
  - [Big Data](#big-data)
+ - [Security](#security)
  - [Python](#python)
  - [Andriod](#android)
  - [Rust](#Rustlang)
- - [IOT](#internet-of-things)
  - [Database](#database)
  - [Delphi](#delphi)
- - [C#](#c-sharp)
+ - [C Sharp](#c-sharp)
  - [JavaScript](#javascript)
  - [Web Develop](#web-develop)
  - [Linux](#linux)
@@ -35,10 +35,10 @@
  - [Python](https://t.me/joinchat/HHAUWk16aSvttxZ_su11mg) - Python Discussion
  - [Python + Linux](https://t.me/joinchat/ClyM2j9QzOiYfJkHkgrMxQ) - Group for Python + Linux Experts
  
- 
- 
-### IOT
- - [Raspberry Pi](https://t.me/joinchat/D1ZmYU5n_GYLkGBr_VUi5g) - Raspberry Pi & Python Group
+  
+### Security
+ - [Programming & security](http://t.me/joinchat/FQbLclBaqOffs8EGi0JUQg) - Programming & security Group
+ - [Cryptography](https://t.me/joinchat/Bi883BH1gstrrfsxssdu7g) - Cryptography Group
 
 ### Android
  - [Android Studio](https://telegram.me/joinchat/Bvjv_j908b7xE4ggJfcGvw) - Android Studio Group
@@ -48,9 +48,6 @@
  
 ### Rust
 - [RustLang](https://t.me/joinchat/Al7JHw3UCQmYMuvAxxkWBw) - Rust Language Programming Group
-
-### Golang
-- [Golang]() - Golang Language Programming Group
 
 ### Delphi
  - [Delphi](https://telegram.me/joinchat/Bia5cD6E3fj8di6UgAxvSw) - Delphi Discussion Group
@@ -79,7 +76,7 @@
  - [Gnu/Linux](https://t.me/joinchat/AgXFOERWlsLvJqxWYlrBqQ) - Gnu/Linux Group
 
 ### Other
- - [Cryptography](https://t.me/joinchat/Bi883BH1gstrrfsxssdu7g) - Cryptography Group
+ - [Raspberry Pi](https://t.me/joinchat/D1ZmYU5n_GYLkGBr_VUi5g) - Raspberry Pi & Python Group
  - [Public Problems](https://t.me/joinchat/FosWWE0N2h1zytXOpNKKdw) - Computer Problems & Mobile & Web Design
  - [Startup & Developers](https://telegram.me/joinchat/Cp3i8T4nWz-mlpCNbtRXmw) - Startup & Developers Group
  - [Programmers & Developers](https://telegram.me/joinchat/CtLPQz1zgxeC4Xtw9fU6YA) - Programmers & Developers Group 
