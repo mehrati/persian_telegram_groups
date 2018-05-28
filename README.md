@@ -6,9 +6,11 @@
  - [Python](#python)
  - [Andriod](#android)
  - [Rust](#Rustlang)
+ - [PHP](#php)
  - [Database](#database)
  - [Delphi](#delphi)
  - [C Sharp](#c-sharp)
+ - [C Plus Plus](#c-plus-plus)
  - [JavaScript](#javascript)
  - [Web Develop](#web-develop)
  - [Linux](#linux)
@@ -39,12 +41,18 @@
 ### Security
  - [Programming & security](http://t.me/joinchat/FQbLclBaqOffs8EGi0JUQg) - Programming & security Group
  - [Cryptography](https://t.me/joinchat/Bi883BH1gstrrfsxssdu7g) - Cryptography Group
+ - [Hack And Security](https://telegram.me/joinchat/AAAAAEJOCEXl-fny4Pml1A) - Hack & Security Group
+### C Plus Plus
+ - [C++/Qt](https://telegram.me/joinchat/BY6MdD8zELnu-u4vy6mxvg) - Cpp & Qt Develpor Group
 
 ### Android
- - [Android Studio](https://telegram.me/joinchat/Bvjv_j908b7xE4ggJfcGvw) - Android Studio Group
+ - [Android Programmers](https://telegram.me/joinchat/DmIcnUAm-a935cJumBkMmg) -Android Programmers Group
+
+### PHP
+ - [PHP Elephent](https://t.me/joinchat/BlYEGT9D614i8VhQW-N7SA) - PHP Programmers Group
 
 ### Database
- - [SQL Server](https://telegram.me/joinchat/BTQQtzy50j-IxIAOKHWwVg) - SQL Server Discussion Group 
+ - [SQL Server](https://t.me/joinchat/AAAAAEE8KHTCfN_K9xAE-g) - SQL Server Discussion Group 
  
 ### Rust
 - [RustLang](https://t.me/joinchat/Al7JHw3UCQmYMuvAxxkWBw) - Rust Language Programming Group
@@ -55,30 +63,34 @@
 
 ### C Sharp
  - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
- - [C# & Xamarin](https://telegram.me/joinchat/A9gCpD-qWX7d_K7cFNWBjA) - C# & Xamarin &  Android Group
+ - [C# & Xamarin](https://telegram.me/joinchat/BOKswEFe0LV4o8LxXZTnYA) - C# & Xamarin Group
+ - [Xamarin](https://t.me/joinchat/IlKL1hEtjzLOWarPIVry1A) - Xamarin Group
  
 ### JavaScript
  - [TehranJS](https://t.me/joinchat/AAAAADuurksaUzYjKNFtpA)
  - [Nodejs](https://t.me/joinchat/AAAAAD52tBIWQ0HATnkCYA)
  - [JS and Frameworks](https://t.me/joinchat/AAAAAD7vWhnurtn1U0_RHA)
-
+ - [ECMA Community](https://t.me/joinchat/FfvXeUQU_fiPDX2yRlnD4w)
 
 ### Web Develop 
  - [Gap Developer](https://t.me/joinchat/GsMlLBAEbANpcQx7v86Pgg) - Gap Developer
- - [Web Develop](https://telegram.me/joinchat/BaoJETxRxmPG3mV96OkcBg) - Web Develop Group 
+ - [Web](https://t.me/joinchat/BhhZM0zUOcqv8Flt5w_kTw) - Web Group 
+ - [Web Developer](https://telegram.me/joinchat/BaoJETxRxmPG3mV96OkcBg) - Web Developer Group 
+ - [Web Developer](https://t.me/joinchat/AAAAAEP6OBxMfDTR9o_VAQ) - Web Developer Group 
  - [Web Support](https://telegram.me/joinchat/Amapzzu5N7KU9l8i9biQVw) - Web & Graphic Design Group
+ - [Web Design](https://t.me/joinchat/BhhZM0Qo_kBc92EJ279h3w) - Web & Graphic Design Group
  - [Wordpress](https://telegram.me/joinchat/A5G0xDwGOy5X8cNmGJexrA) - Wordpress Group 
- - [SEO](https://telegram.me/joinchat/BPd01zwYPAkNV3tTsoc8pA) - SEO Group 
-
+ - [SEO](https://t.me/joinchat/BhJ3RxHm5bAjWUmR-G9UBA) - SEO Group 
 ### Linux
  - [UnixLike](https://telegram.me/joinchat/CXY-8UBLZqxDL96KpNx4aA) - Group Linux
  - [FreeGap](https://t.me/joinchat/AgXFOD86p1nhiaC0HB1wrg) - Open Source Software Group
  - [Gnu/Linux](https://t.me/joinchat/AgXFOERWlsLvJqxWYlrBqQ) - Gnu/Linux Group
  - [ArchLinux](https://t.me/joinchat/HkrxrEL0r7LHZulhhc36KQ) - ArchLinux User Group
  
-
 ### Other
  - [Raspberry Pi](https://t.me/joinchat/D1ZmYU5n_GYLkGBr_VUi5g) - Raspberry Pi & Python Group
+ - [Nerds](https://t.me/joinchat/AAAAAD2_t1mRKSuEAja3iw) - Nerds Group
+ - [Overflow](https://t.me/joinchat/AAAAAD2_t1mRKSuEAja3iw) - Programming Problems Group
  - [Public Problems](https://t.me/joinchat/FosWWE0N2h1zytXOpNKKdw) - Computer Problems & Mobile & Web Design
  - [Startup & Developers](https://telegram.me/joinchat/Cp3i8T4nWz-mlpCNbtRXmw) - Startup & Developers Group
  - [Programmers & Developers](https://telegram.me/joinchat/CtLPQz1zgxeC4Xtw9fU6YA) - Programmers & Developers Group 
