@@ -25,7 +25,6 @@
  - [Hack And Security](https://telegram.me/joinchat/AAAAAEJOCEXl-fny4Pml1A) - Hack & Security Group
 
 ### Python
- - [Python Challenge](https://telegram.me/pythonchallenge) - Group for Advanced Learning Python
  - [Python](https://t.me/joinchat/HHAUWk16aSvttxZ_su11mg) - Python Discussion
  - [Python + Linux](https://t.me/joinchat/ClyM2j9QzOiYfJkHkgrMxQ) - Group for Python + Linux Experts
  
@@ -69,7 +68,6 @@
 ### Linux
  - [Gnu/Linux](https://t.me/joinchat/AgXFOERWlsLvJqxWYlrBqQ) - Gnu/Linux Group
  - [Kerman Gnu/Linux](https://t.me/joinchat/BU-t6E-hnY-pERFdPw54TQ) - Kerman Gnu/Linux Group
- 
  - [ArchLinux](https://t.me/joinchat/HkrxrEL0r7LHZulhhc36KQ) - ArchLinux User Group
  
 ### Programming
@@ -77,9 +75,9 @@
  - [Raspberry Pi](https://t.me/joinchat/D1ZmYU5n_GYLkGBr_VUi5g) - Raspberry Pi & Python Group
  - [Nerds](https://t.me/joinchat/AAAAAD2_t1mRKSuEAja3iw) - Nerds Group
  - [Overflow](https://t.me/joinchat/AAAAAD2_t1mRKSuEAja3iw) - Programming Problems Group
- - [Public Problems](https://t.me/joinchat/FosWWE0N2h1zytXOpNKKdw) - Computer Problems & Mobile & Web Design Group
+ - [Freelancers](https://t.me/joinchat/AhgfaRFOG412RBv3CQNq-Q) - Freelancers Group
  
 ### Other
  - [FreeGap](https://t.me/joinchat/AgXFOD86p1nhiaC0HB1wrg) - Open Source Software Group
-  Design Group
+ - [Chat Company](https://t.me/joinchat/DKhsrUNxZcAe2VLN8NcM9w) - Chat Company Group
  - [Photoshop](https://t.me/joinchat/DxfC7T8Rsz0UDNvC7dqL7A) - Photoshop Group
