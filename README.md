@@ -84,10 +84,16 @@
  - [Web Support](https://telegram.me/joinchat/Amapzzu5N7KU9l8i9biQVw) - Web & Graphic Design Group
  - [Web Design](https://t.me/joinchat/BhhZM0Qo_kBc92EJ279h3w) - Web & Graphic Design Group
  - [SEO](https://t.me/joinchat/BhJ3RxHm5bAjWUmR-G9UBA) - SEO Group
+ - [Web Dev](https://t.me/joinchat/BYMy8j6JciS5qC1soPJEow) - Web Dev Group
+ - [WordPress](https://t.me/joinchat/Bdt6LUMK2I-aOGkzCkHguA) - WordPress Group
+ - [Iran Web Dev](https://t.me/joinchat/AAAAAEoJjPzEpdYbHSGBGg) - Iran Web Dev Group
+ - [MadelineProto](https://t.me/joinchat/Bgraj0RlsQpyjOXGjtXpJg) - MadelineProto Group
  
 ### Linux
  - [Gnu/Linux](https://t.me/joinchat/AgXFOERWlsLvJqxWYlrBqQ) - Gnu/Linux Group
  - [Kerman Gnu/Linux](https://t.me/joinchat/BU-t6E-hnY-pERFdPw54TQ) - Kerman Gnu/Linux Group
+ - [Tehran Gnu/Linux](https://t.me/joinchat/AAAAADzxg6e6w9xw0EZcNA) - Tehran Gnu/Linux Group
+ - [GNU / Linux Q/A](https://t.me/joinchat/AneI_z-v5CMfn1zPmQo9Ww) - GNU / Linux Q/A Group
  - [ArchLinux](https://t.me/joinchat/HkrxrEL0r7LHZulhhc36KQ) - ArchLinux User Group
  - [Linux](https://telegram.me/joinchat/AsOr2j-6ee7z_yLU3x3nIg) - Linux User Group
  
@@ -100,6 +106,8 @@
  - [Programming Team](https://t.me/joinchat/AAAAAENPOk-Md3qkEhRJAg) - Programming Team Group
  - [Community Programming](https://t.me/joinchat/AAAAAERGZ2z3_cwjhNvfSA) - Community Programming Group
  - [Programming](https://t.me/joinchat/AAAAAEDZPsRoj9h16yftAA) - Programming Group
+ - [Programming Q/A](https://t.me/joinchat/FHtX3U4vDb1ydSbpizFHww) - Programming Q/A Group
+ 
  
 ### Other
  - [FreeGap](https://t.me/joinchat/AgXFOD86p1nhiaC0HB1wrg) - Open Source Software Group
