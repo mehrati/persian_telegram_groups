@@ -24,9 +24,6 @@
  - [Programming & security](http://t.me/joinchat/FQbLclBaqOffs8EGi0JUQg) - Programming & security Group
  - [Cryptography](https://t.me/joinchat/Bi883BH1gstrrfsxssdu7g) - Cryptography Group
  - [Hack And Security](https://telegram.me/joinchat/AAAAAEJOCEXl-fny4Pml1A) - Hack & Security Group
- - [Gap Bad Boy Hack](https://t.me/joinchat/CG6MWEkE0Zbx6Gy0M6cUnQ) - Gap Bad Boy Hack Group
- - [Hack And Security](https://t.me/joinchat/GN0R-g74m0R4kb9QRZsUfQ) - Hack & Security Group
- - [Hack And Security](https://t.me/joinchat/AAAAAEM_7qLdnQ6vYhu14A) - Hack & Security Group
  
 ### Security Network 
 - [ArmanData](https://t.me/joinchat/CS1iNhAcUrS2kpKl2SMvPw) - Security Network Group
