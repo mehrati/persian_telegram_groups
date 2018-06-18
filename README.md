@@ -15,7 +15,7 @@
  - [JavaScript](#javascript)
  - [Web Develop](#web-develop)
  - [Programming](#programming)
- - [Linux](#linux)
+ - [Gnu/Linux](#linux)
  - [Other](#other)
 ### Data Scientist
  - [Data Scientist](https://t.me/joinchat/CVZpEj0EaiNOY17znAvsdw) - Data Scientist Group
@@ -92,14 +92,17 @@
  - [Iran Web Dev](https://t.me/joinchat/AAAAAEoJjPzEpdYbHSGBGg) - Iran Web Dev Group
  - [MadelineProto](https://t.me/joinchat/Bgraj0RlsQpyjOXGjtXpJg) - MadelineProto Group
  
-### Linux
+### Gnu/Linux
+ - [Linux](https://t.me/joinchat/GtiMBA_d0DrsVbgZTQQQ4A) - Linux Group
  - [Gnu/Linux](https://t.me/joinchat/AgXFOERWlsLvJqxWYlrBqQ) - Gnu/Linux Group
  - [Kerman Gnu/Linux](https://t.me/joinchat/BU-t6E-hnY-pERFdPw54TQ) - Kerman Gnu/Linux Group
  - [Tehran Gnu/Linux](https://t.me/joinchat/AAAAADzxg6e6w9xw0EZcNA) - Tehran Gnu/Linux Group
+ - [Ahvaz Gnu/Linux](https://telegram.me/joinchat/Bh7MyT8OEeP5b9_iMOT36A) - Ahvaz Gnu/Linux Group
+ - [Arak Gnu/Linux](https://telegram.me/joinchat/A-Q01z_tfJZdS7vE33hqCg) - Arak Gnu/Linux Group
+ - [Shiraz Lug](https://telegram.me/joinchat/AYtPuT58Mz94GAd_-NxodQ) - Shiraz Lug Group
  - [GNU / Linux Q/A](https://t.me/joinchat/AneI_z-v5CMfn1zPmQo9Ww) - GNU / Linux Q/A Group
  - [ArchLinux](https://t.me/joinchat/HkrxrEL0r7LHZulhhc36KQ) - ArchLinux User Group
  - [Linux](https://telegram.me/joinchat/AsOr2j-6ee7z_yLU3x3nIg) - Linux User Group
- - [Linux](https://t.me/joinchat/GtiMBA_d0DrsVbgZTQQQ4A) - Linux Group
  
 ### Programming
  - [Gap Developer](https://t.me/joinchat/GsMlLBAEbANpcQx7v86Pgg) - Gap Developer
@@ -118,6 +121,5 @@
  - [Oracle](https://t.me/joinchat/Ad3P5T12J7UW9pmgBEX8zw) - Oracle Group
  - [Data Structure](https://t.me/joinchat/ChZ37D4nU7RtRWuBu9f9sw) - Data Structure Group
  - [FavaKar](https://t.me/joinchat/BkqePExNygcH8iF6kc4tzA) - FavaKar Group
- - [RayaneKar](https://t.me/joinchat/DE8oW0OlZjcyzv7FzIxM3g) - Linux & Mac & Windows Group
  
  
