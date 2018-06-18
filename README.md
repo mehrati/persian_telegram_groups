@@ -54,7 +54,6 @@
  - [IOS Dev](https://telegram.me/joinchat/CHk-4UBjjds4nYAl-S2Now) - IOS Dev Group
  - [IOS Dev(Swift)](https://t.me/joinchat/AAAAAD9Mz8DlHGxnkUD-dQ) - IOS Dev(Swift) Group
  
-
 ### Java
  - [JavaNeverDies](https://t.me/joinchat/Celm7kBy4QJvaKG6qm9dOw) - java Developers Group
  - [Java & Android](https://t.me/joinchat/EurdlUEhlnS1b5e0ciJGNw) - Java & Android Developers Group
@@ -108,9 +107,6 @@
  - [Nerds](https://t.me/joinchat/AAAAAD2_t1mRKSuEAja3iw) - Nerds Group
  - [Overflow](https://t.me/joinchat/FFSYBVDGI8wDQKYrWIKf7g) - Programming Problems Group
  - [Freelancers](https://t.me/joinchat/AhgfaRFOG412RBv3CQNq-Q) - Freelancers Group
- - [Programming Team](https://t.me/joinchat/AAAAAENPOk-Md3qkEhRJAg) - Programming Team Group
- - [Community Programming](https://t.me/joinchat/AAAAAERGZ2z3_cwjhNvfSA) - Community Programming Group
- - [Programming](https://t.me/joinchat/AAAAAEDZPsRoj9h16yftAA) - Programming Group
  - [Programming Q/A](https://t.me/joinchat/FHtX3U4vDb1ydSbpizFHww) - Programming Q/A Group
  - [Programming](https://t.me/joinchat/DqYNiD8AZnS5UJsQ4OipLg) - Programming Group
  - [Quick learn](https://t.me/joinchat/BPyVsj6pHOyL4cDoAf5foA) - Programming Group
@@ -122,4 +118,6 @@
  - [Oracle](https://t.me/joinchat/Ad3P5T12J7UW9pmgBEX8zw) - Oracle Group
  - [Data Structure](https://t.me/joinchat/ChZ37D4nU7RtRWuBu9f9sw) - Data Structure Group
  - [FavaKar](https://t.me/joinchat/BkqePExNygcH8iF6kc4tzA) - FavaKar Group
+ - [RayaneKar](https://t.me/joinchat/DE8oW0OlZjcyzv7FzIxM3g) - Linux & Mac & Windows Group
+ 
  
