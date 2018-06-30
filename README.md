@@ -7,12 +7,14 @@
  - [Python](#python)
  - [Swift](#swift)
  - [Andriod](#android)
- - [Rust](#Rustlang)
+ - [Rust](#rustlang)
+ - [Go](#golang)
  - [PHP](#php)
  - [Database](#database)
  - [C#](#c-sharp)
  - [C&C++](#c&c-plus-plus)
  - [JavaScript](#javascript)
+ - [TypeScript](#typescript)
  - [Web Develop](#web-develop)
  - [Programming](#programming)
  - [Gnu/Linux](#linux)
@@ -68,6 +70,9 @@
 ### Rust
 - [RustLang](https://t.me/joinchat/Al7JHw3UCQmYMuvAxxkWBw) - Rust Language Programming Group
 
+### GoLang
+- [Golang](https://t.me/joinchat/Aqn-RkC2xDSWCxqkzRI9Eg) - Go Language Programming Group
+
 ### C#
  - [C# & Xamarin](https://telegram.me/joinchat/BOKswEFe0LV4o8LxXZTnYA) - C# & Xamarin Group
  - [Xamarin](https://t.me/joinchat/IlKL1hEtjzLOWarPIVry1A) - Xamarin Group
@@ -79,6 +84,9 @@
  - [TehranJS](https://t.me/joinchat/AAAAADuurksaUzYjKNFtpA) - TehranJS Group 
  - [ECMA Community](https://t.me/joinchat/FfvXeUQU_fiPDX2yRlnD4w) - ECMA Group 
  - [Angular IRAN](https://t.me/joinchat/AAAAAERMCw-4Xd8UNpc8dA) - Angular IRAN Group 
+ 
+### TypeScript
+ - [TypeScript Experts](https://t.me/joinchat/Bk7UBkz2BXubLc74uP8wHw) - TypeScript Experts Group 
  
 ### Web Develop 
  - [Web](https://t.me/joinchat/BhhZM0zUOcqv8Flt5w_kTw) - Web Group 
