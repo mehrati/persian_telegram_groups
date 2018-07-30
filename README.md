@@ -110,6 +110,7 @@
  - [Shiraz Lug](https://telegram.me/joinchat/AYtPuT58Mz94GAd_-NxodQ) - Shiraz Lug Group
  - [GNU / Linux Q/A](https://t.me/joinchat/AneI_z-v5CMfn1zPmQo9Ww) - GNU / Linux Q/A Group
  - [ArchLinux](https://t.me/joinchat/HkrxrEL0r7LHZulhhc36KQ) - ArchLinux User Group
+ - [Fedora](https://t.me/joinchat/DSbv30PVmG1DzWduU-K8yg) - Fedora User Group
  - [Linux](https://telegram.me/joinchat/AsOr2j-6ee7z_yLU3x3nIg) - Linux User Group
  
 ### Programming
